@@ -68,49 +68,49 @@ This environment variable is required to set up the client-side of the applicati
 Here are various images showcasing different aspects of the Zabwino Deals website:
 
 #### 1. Main Page
-![Main Page](https://raw.githubusercontent.com/creosB/zabwino/main/images/mainpage.png?token=GHSAT0AAAAAACI7BZS2O6J5GKCBK5OH3JOQZJNPSIQ)
+![Main Page](https://raw.githubusercontent.com/creosB/zabwino/main/images/mainpage.png)
 
 #### 2. Admin Panel
-![Admin Panel](https://raw.githubusercontent.com/creosB/zabwino/main/images/admin%20panel.png?token=GHSAT0AAAAAACI7BZS2WRRPG3HUKVWCD5DWZJNPQ3Q)
+![Admin Panel](https://raw.githubusercontent.com/creosB/zabwino/main/images/admin%20panel.png)
 
 #### 3. User Dashboard
-![User Dashboard](https://raw.githubusercontent.com/creosB/zabwino/main/images/user%20dashboard.png?token=GHSAT0AAAAAACI7BZS2JIEK752W3LVUGRXEZJNPVQQ)
+![User Dashboard](https://raw.githubusercontent.com/creosB/zabwino/main/images/user%20dashboard.png)
 
 #### 4. Post Product
-![Post Product](https://raw.githubusercontent.com/creosB/zabwino/main/images/post%20product.png?token=GHSAT0AAAAAACI7BZS2VRILC5D2G2P3PXR2ZJNPTNQ)
+![Post Product](https://raw.githubusercontent.com/creosB/zabwino/main/images/post%20product.png)
 
 #### 5. Postman API Test
-![Postman API Test](https://raw.githubusercontent.com/creosB/zabwino/main/images/postman%20test.png?token=GHSAT0AAAAAACI7BZS2OI65XPLSSDZGM5ZWZJNPTWQ)
+![Postman API Test](https://raw.githubusercontent.com/creosB/zabwino/main/images/postman%20test.png)
 
 #### 6. Chat
-![Chat](https://raw.githubusercontent.com/creosB/zabwino/main/images/chat.png?token=GHSAT0AAAAAACI7BZS3KH76PMNYWKG4TC4EZJNPRHA)
+![Chat](https://raw.githubusercontent.com/creosB/zabwino/main/images/chat.png)
 
 #### 7. Notification
-![Notification](https://raw.githubusercontent.com/creosB/zabwino/main/images/notification.png?token=GHSAT0AAAAAACI7BZS2PLREL757CKZIVNQ2ZJNPTDQ)
+![Notification](https://raw.githubusercontent.com/creosB/zabwino/main/images/notification.png)
 
 #### 8. Register
-![Register](https://raw.githubusercontent.com/creosB/zabwino/main/images/register.png?token=GHSAT0AAAAAACI7BZS36YCXUVGTMAGEA6UUZJNPUYA)
+![Register](https://raw.githubusercontent.com/creosB/zabwino/main/images/register.png)
 
 #### 9. Login
-![Login](https://raw.githubusercontent.com/creosB/zabwino/main/images/login.png?token=GHSAT0AAAAAACI7BZS3QEVAVJGOQLKMXZB4ZJNPR6A)
+![Login](https://raw.githubusercontent.com/creosB/zabwino/main/images/login.png)
 
 #### 10. Update Information
-![Update Information](https://raw.githubusercontent.com/creosB/zabwino/main/images/update%20information.png?token=GHSAT0AAAAAACI7BZS3C5FZ4ZEYKVG5WQPIZJNPVKQ)
+![Update Information](https://raw.githubusercontent.com/creosB/zabwino/main/images/update%20information.png)
 
 #### 11. Profile
-![Profile](https://raw.githubusercontent.com/creosB/zabwino/main/images/profile.png?token=GHSAT0AAAAAACI7BZS2EUUTGTA5FCOX3SQYZJNPUIQ)
+![Profile](https://raw.githubusercontent.com/creosB/zabwino/main/images/profile.png)
 
 #### 12. Database
-![Database](https://raw.githubusercontent.com/creosB/zabwino/main/images/mongodb.png?token=GHSAT0AAAAAACI7BZS2SPKBGROW4AOAD3JWZJNPS2A)
+![Database](https://raw.githubusercontent.com/creosB/zabwino/main/images/mongodb.png)
 
 #### 13. Rate
-![Rate](https://raw.githubusercontent.com/creosB/zabwino/main/images/rate.png?token=GHSAT0AAAAAACI7BZS3FPBRW67I7RSZUFTMZJNPURA)
+![Rate](https://raw.githubusercontent.com/creosB/zabwino/main/images/rate.png)
 
 #### 14. Add to Favorites
-![Add to Favorites](https://raw.githubusercontent.com/creosB/zabwino/main/images/add%20to%20favorites.png?token=GHSAT0AAAAAACI7BZS2W67EHBQXYJSZASRYZJNPQOQ)
+![Add to Favorites](https://raw.githubusercontent.com/creosB/zabwino/main/images/add%20to%20favorites.png)
 
 #### 15. Footer
-![Footer](https://raw.githubusercontent.com/creosB/zabwino/main/images/footer.png?token=GHSAT0AAAAAACI7BZS3GKGSTL5YMI6EVNEOZJNPRNA)
+![Footer](https://raw.githubusercontent.com/creosB/zabwino/main/images/footer.png)
 
 #### 15. Under Construction Page (example)
 ![Construction](https://raw.githubusercontent.com/creosB/zabwino/main/images/under%20construction.png)
